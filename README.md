@@ -1,5 +1,5 @@
 # TrainingRepo
 A repository for training purpose...
-# My first commits
+# My first commits..
 
 # Aryan: My commit
