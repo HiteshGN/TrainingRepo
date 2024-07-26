@@ -1,7 +1,4 @@
 # TrainingRepo
 A repository for training purpose...
-# My first commits
-Pragya first comment
-
-
-# Aryan: My commit
+adding a new line
+myLine
